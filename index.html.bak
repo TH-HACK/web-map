@@ -1,0 +1,38 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Coder-Web</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="shortcut icon" type="image/jpg" href="images/l7.jpg">
+</head>
+<body>
+    <div class="header">
+        <div class="photo">
+            <img src="images/l7.jpg" alt="logo">
+            <h2>
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="box1">
+        <div class="centered-text">
+            <h2>L7AJ OBB 46.zip</h2>
+            <div class="img">
+                <img src="images/file%20%282%29.png" alt="file">
+            </div>
+            <a href="https://devuploads.com/r054t4buovtl
+" download="">
+            <div class="button">
+                <button>Download File</button>
+            </div>
+            </a>
+        </div>
+        
+
+
+    </div>
+
+
+
+</body></html>
